@@ -2,8 +2,11 @@
 
 # dependencies
 /node_modules
+/node-postgres
 /.pnp
 .pnp.js
+package.json
+package-lock.json
 
 # testing
 /coverage
